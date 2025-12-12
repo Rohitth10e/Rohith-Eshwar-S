@@ -4,37 +4,32 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A50044,100:004D98&text=ROHITH%20ESH&fontColor=ffffff&fontSize=62&animation=twinkling&fontAlign=50" />
 </p>
 
-<!-- ===================== BARÇA TYPING SUBTITLE ===================== -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2300&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Backend+Engineer;Distributed+Systems+%7C+High+Performance;Go+%7C+Django+%7C+MERN;Blaugrana+Mindset+—+Mes+Que+Un+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2300&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Backend+Engineer;Distributed+Systems+%7C+High+Performance;Go+%7C+Django+%7C+MERN;Mes+Que+Un+Engineer" />
 </p>
 
 ---
 
-<!-- ===================== BARÇA CLEAN SVG DIVIDER ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/templates/separators/wave.svg" width="85%" />
-</p>
+<!-- ===================== BARÇA DIVIDER (NO BROKEN IMAGES) ===================== -->
+### <div align="center" style="font-size:28px; font-weight:600; color:#A50044;">━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 # 🔵 About Me  
-I engineer backend systems with a **Barça philosophy**:  
-**clarity, structure, elegance, and discipline.**
 
-I focus on:  
+I engineer backend systems with a **Barça philosophy** —  
+clarity, structure, elegance, and discipline.
+
+I focus on:
+
 - high-performance backend architecture  
 - scalable distributed systems  
 - reliability under pressure  
-- clean code and modular design  
+- clean modular design  
 
 ---
 
-<!-- ===================== BARÇA CLEAN STRIPE DIVIDER ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/templates/separators/plane.svg" width="90%" />
-</p>
+### <div align="center" style="font-size:28px; font-weight:600; color:#004D98;">━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-# 🔴 Tech Arsenal — Blaugrana Edition
+# 🔴 Tech Arsenal — Blaugrana Edition  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-A50044?style=for-the-badge&logo=go&logoColor=00ADD8" />
@@ -51,40 +46,34 @@ I focus on:
 
 ---
 
-<!-- ===================== BARÇA CLEAN WAVE DIVIDER ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/templates/separators/wave_inverse.svg" width="85%" />
-</p>
+### <div align="center" style="font-size:28px; font-weight:600; color:#A50044;">━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-# 🔵 Featured Projects — Tiki-Taka Engineering
+# 🔵 Featured Projects  
 
 ### **PeerLink — Real-time Video Conferencing (MERN + WebRTC)**  
-Highly optimized streaming architecture with reliable RTC flows — fast and fluid like Barça midfield.
+Low-latency RTC pipeline with JWT security.
 
 ### **AI Fitness Coach (MERN + Gemini AI + Docker)**  
-LLM-driven personalization with modular backend design.
+LLM-driven personalized plans + animated UI.
 
 ### **Event Management API (Go)**  
-- 4× throughput improvement  
-- 50% lower median latency  
-- Strong, modular routing + middleware discipline  
+- 4× throughput  
+- 50% lower latency  
+- Modular, high-performance routing  
 
 ---
 
-<!-- ===================== BARÇA CLEAN TUNNEL DIVIDER ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/templates/separators/tunnel.svg" width="90%" />
-</p>
+### <div align="center" style="font-size:28px; font-weight:600; color:#004D98;">━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-# 🔴 Currently Training (La Masia Standards)
-- Go microservices  
-- gRPC + distributed systems  
-- High-scale authentication flows  
-- Observability & cloud-native patterns  
+# 🔴 Currently Training  
+- Go microservices & gRPC  
+- Distributed systems  
+- High-scale authentication systems  
+- Observability & cloud-native tooling  
 
 ---
 
-# 🔵 GitHub Control Center — Blaugrana Mode
+# 🔵 GitHub Control Center  
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=midnight-purple&hide_border=true&show_icons=true" />
@@ -93,6 +82,8 @@ LLM-driven personalization with modular backend design.
 </p>
 
 ---
+
+### <div align="center" style="font-size:28px; font-weight:600; color:#A50044;">━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 # 🔴 Connect With Me  
 
