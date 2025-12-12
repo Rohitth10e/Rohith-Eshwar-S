@@ -52,7 +52,6 @@ Serves 100K+ monthly users —
 ### **Freelance Jr Software Engineer — Board Director (USA)**  
 - Built performant features using **Vue.js + Django**  
 - Reduced production issues & enhanced reliability  
-- Automated CI/CD → **~30% faster deployments**
 
 ---
 
@@ -67,8 +66,9 @@ Serves 100K+ monthly users —
 # 📊 GitHub Stats  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&layout=compact&theme=tokyonight&hide_border=true" />
+![](https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rohitth10e&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 ---
@@ -86,6 +86,9 @@ Serves 100K+ monthly users —
   <a href="https://linkedin.com/in/rohitheshwars"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:rohiteshwar.s@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" /></a>
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rohitth10e&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
