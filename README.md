@@ -67,9 +67,10 @@ AI-generated structured workout + diet programs with containerized backend.
 
 # 🔵 GitHub Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rohitth10e&theme=dark" alt="GitHub Streak" /></a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rohitth10e&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ---
