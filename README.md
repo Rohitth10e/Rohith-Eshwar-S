@@ -1,24 +1,93 @@
-# 💫 About Me:
-<!-- Dark-mode themed About Me — paste this into README.md --><br># 🌙 **Rohith Eshwar — Software Engineer**<br><br><p align="center"><br>  <sub style="opacity:0.9">🧑‍💻 Backend & Full-Stack • 🚀 Performance-Driven • 🌎 Building for Scale</sub><br></p><br><br>---<br><br>## 🖤 About Me<br>I build **fast**, **reliable**, and **scalable** systems using **Go**, **Django**, and the **MERN** stack. I focus on clean architecture, high-performance APIs, and production-ready engineering.<br><br>*(Based on my resume — latest details here.)* :contentReference[oaicite:0]{index=0}<br><br>---<br><br>## ⚡ Tech Snapshot<br><br><p align="center"><br>  <img alt="Go" src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8" /><br>  <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" /><br>  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" /><br>  <img alt="Django" src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django" /><br>  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" /><br>  <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" /><br>  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs" /><br>  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql" /><br>  <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" /><br></p><br><br>---<br><br>## 🔥 Selected Work<br><br>**📹 PeerLink — Video Conferencing (MERN + WebRTC)**  <br>Real-time streaming, chat, scheduling, and JWT auth.<br><br>**🤖 AI Fitness Coach (MERN + Gemini AI + Docker)**  <br>AI-generated plans, voice guidance, PDF export, containerized API.<br><br>**🗂 Event Management API (Go)**  <br>Serves 100K+ monthly users — **4× throughput** and **50% lower median response time**.<br><br>---<br><br>## 🏢 Experience<br>**Freelance Jr Software Engineer — Board Director (USA)**  <br>Built high-performance Vue + Django features, resolved production issues, and automated pipelines to speed deployments by ~30%.<br><br>---<br><br>## 🧭 Currently Exploring<br>gRPC & Go microservices · advanced auth patterns · cloud automation · system design<br><br>---<br><br>## 📫 Connect<br><p align="center"><br>  <a href="https://github.com/rohitth10e"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"></a><br>  <a href="https://linkedin.com/in/rohitheshwars"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"></a><br>  <a href="mailto:rohiteshwar.s@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"></a><br></p><br><br>---<br><br>> **“Software should be simple at its surface and engineered with intention underneath.”**<br><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c2c2c&height=250&section=header&text=Rohith%20Eshwar&fontSize=55&fontColor=ffffff&animation=twinkling" />
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohith10e_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rohith Eshwar S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitheshwar.s@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohitth10e&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohitth10e&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rohitth10e&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+Full+Stack+Developer;Go+%7C+Django+%7C+MERN;Building+Fast+%26+Scalable+Systems" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rohitth10e&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧑🏼‍💻 About Me  
+I build **fast**, **reliable**, and **scalable** systems using **Go**, **Django**, and the **MERN** stack.  
+I enjoy clean architecture, high-performance APIs, and production-ready engineering with real-world impact.
+
+---
+
+# ⚡ Tech Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" />
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+### 📹 **PeerLink — Video Conferencing (MERN + WebRTC)**  
+Real-time video/audio streaming, chat, meeting scheduling, JWT-secured access.
+
+### 🤖 **AI Fitness Coach (MERN + Gemini AI + Docker)**  
+AI-generated fitness & diet plans, voice guidance, PDF export, containerized backend.
+
+### 🗂 **Event Management API (Go)**  
+Serves 100K+ monthly users —  
+✔ **4× throughput**  
+✔ **50% lower median response time**  
+✔ Modular routing + robust middleware
+
+---
+
+# 🏢 Work Experience
+
+### **Freelance Jr Software Engineer — Board Director (USA)**  
+- Built performant features using **Vue.js + Django**  
+- Reduced production issues & enhanced reliability  
+- Automated CI/CD → **~30% faster deployments**
+
+---
+
+# 🧭 Currently Exploring
+- gRPC + Go microservices  
+- Advanced auth patterns (JWT, sessions, cookies)  
+- Cloud automation & system design  
+- High-performance backend architecture  
+
+---
+
+# 📊 GitHub Stats  
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation  
+
+> I can generate this for you if you want — GitHub needs a workflow file.
+
+---
+
+# 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/rohitth10e"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/rohitheshwars"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:rohiteshwar.s@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+<p align="center"><i>“Software should be simple at the surface and engineered with intention underneath.”</i></p>
+
