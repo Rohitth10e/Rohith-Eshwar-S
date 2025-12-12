@@ -1,8 +1,9 @@
 <!-- ===================== BARÇA HEADER (FIXED NAME) ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=ROHITH%20ESHWAR&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=00000000&text=ROHITH%20E%S&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlign=50" />
 </p>
+
 
 
 <p align="center">
@@ -64,15 +65,18 @@ AI-generated structured workout + diet programs with containerized backend.
 
 ---
 
-# 🔵 GitHub Stats (Correct Username)
+# 🔵 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rohitth10e&theme=tokyonight&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
   <img height="160" src="https://streak-stats.demolab.com/?user=rohitth10e&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rohitth10e&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
