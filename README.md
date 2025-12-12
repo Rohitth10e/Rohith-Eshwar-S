@@ -1,7 +1,7 @@
 <!-- ===================== BARÇA HEADER (FIXED NAME) ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=00000000&text=ROHITH%20E%S&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=00000000&text=ROHITH%20E%20S&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlign=50" />
 </p>
 
 
