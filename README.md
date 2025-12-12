@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c2c2c&height=250&section=header&text=Rohith%20Eshwar&fontSize=55&fontColor=ffffff&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=40&duration=1800&pause=900&color=0FFFCF&center=true&vCenter=true&width=800&lines=%3E+ROHITH+%5BSYSTEM+ONLINE%5D;%3E+INITIALIZING+SOFTWARE+ENGINEER;%3E+LOADING+BACKEND+MODULES" />
 </p>
 
 <p align="center">
@@ -66,16 +66,15 @@ Serves 100K+ monthly users —
 # 📊 GitHub Stats  
 
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohitth10e&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitth10e&theme=dark&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&theme=dark&hide_border=false&layout=compact" height="160" />
 </p>
 
 ---
 
 # 🐍 Contribution Snake Animation  
-
-> I can generate this for you if you want — GitHub needs a workflow file.
+> I can generate this for you if you want — GitHub requires a workflow file.
 
 ---
 
@@ -87,10 +86,13 @@ Serves 100K+ monthly users —
   <a href="mailto:rohiteshwar.s@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" /></a>
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohitth10e&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitth10e&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
 <p align="center"><i>“Software should be simple at the surface and engineered with intention underneath.”</i></p>
-
