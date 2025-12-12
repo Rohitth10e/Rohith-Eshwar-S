@@ -1,37 +1,29 @@
-<!-- ===================== BARÇA HEADER ===================== -->
+<!-- ===================== BARÇA HEADER (FIXED NAME) ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:A50044,100:004D98&text=ROHITH%20ESH&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:A50044,100:004D98&text=ROHITH%20ESHWAR&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2300&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Backend+Engineer;Go+%7C+Django+%7C+MERN;Distributed+Systems+%26+Performance;Mes+Que+Un+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2300&pause=900&color=FFFFFF&center=true&vCenter=true&width=820&lines=Backend+Engineer;Go+%7C+Django+%7C+MERN;Distributed+Systems+%26+Performance;Mes+Que+Un+Engineer" />
 </p>
 
 ---
 
 # 🔵 About Me  
 
-I build backend systems with a mindset inspired by **Barça’s identity** — precision, clarity, discipline, and flow.  
-My engineering philosophy centers around creating systems that are:
+I build backend systems inspired by **Barça’s clarity, precision, and structure** — clean architecture, predictable performance, and disciplined engineering.
 
-### **Efficient**  
-Optimized for latency, throughput, and predictable performance.
+My focus areas:
 
-### **Scalable**  
-Designed to handle growth through modular architecture, clean boundaries, and distributed patterns.
-
-### **Reliable**  
-Built to withstand real-world traffic conditions, resilience requirements, and failure scenarios.
-
-### **Readable & Maintainable**  
-Code that can be understood, extended, and debugged easily by any engineer on the team.
-
-I enjoy working across the stack when necessary, but my core strength lies in **backend architecture**, **API design**, and **distributed system patterns**.
+- high-performance backend architecture  
+- scalable distributed systems  
+- reliability under real-world load  
+- clean, readable, maintainable code  
 
 ---
 
-# 🔴 Tech Arsenal — Blaugrana Edition  
+# 🔴 Tech Arsenal — Blaugrana Edition
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-A50044?style=for-the-badge&logo=go&logoColor=00ADD8" />
@@ -46,59 +38,41 @@ I enjoy working across the stack when necessary, but my core strength lies in **
   <img src="https://img.shields.io/badge/Docker-004D98?style=for-the-badge&logo=docker" />
 </p>
 
-These tools reflect my day-to-day workflow — from backend development and database modeling to cloud deployment and containerized services.
-
 ---
 
 # 🔵 Featured Projects  
 
 ### **PeerLink — Real-time Video Conferencing (MERN + WebRTC)**  
-A video collaboration platform engineered for responsiveness and stability.  
-Includes real-time streaming, noise-resilient audio channels, chat features, JWT-secured sessions, and lifecycle-aware meeting orchestration.
+Low-latency RTC pipeline, JWT-secured sessions, distributed meeting lifecycle.
 
 ### **AI Fitness Coach (MERN + Gemini AI + Docker)**  
-A fully interactive AI fitness system producing structured, culturally aware diet + workout plans.  
-The backend is containerized for lightweight deployment and offers PDF export, voice guidance, and smooth UI transitions.
+AI-generated structured workout + diet programs with containerized backend.
 
 ### **Event Management API (Go)**  
-Designed for high traffic and optimized for efficiency:  
-- 4× throughput under load testing  
-- 50% reduction in median response latency  
-- Clean routing, validation middleware, and scalable module layout  
-Built for real-world usage and seamless integration across clients.
+- 4× throughput improvement  
+- 50% reduction in median latency  
+- Clean routing, reliable middleware stack  
 
 ---
 
 # 🔴 Currently Exploring  
-
-I consistently evolve my knowledge base through deep-focus learning in:
-
-### **Go Microservices**  
-Building faster, smaller, and isolated services communicating over well-defined interfaces.
-
-### **gRPC & Protocol Buffers**  
-Low-latency, strongly typed communication for distributed systems.
-
-### **Scalable Authentication Systems**  
-Session security, JWT flows, token rotation, RBAC/ABAC, and multi-service auth orchestration.
-
-### **Cloud-Native Observability**  
-Tracing, metrics, logs, dashboards, and chaos-oriented resilience.
+- Go microservices  
+- gRPC & distributed system patterns  
+- Scalable authentication flows  
+- Observability, tracing & metrics  
 
 ---
 
-# 🔵 GitHub Stats  
+# 🔵 GitHub Stats (Correct Username)
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=rohitth10e&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=rohitth10e&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-These components display language distribution, contribution streaks, and general repository activity using **stable, GitHub-recommended endpoints**.
 
 ---
 
