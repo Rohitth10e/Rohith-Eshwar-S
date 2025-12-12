@@ -1,8 +1,9 @@
 <!-- ===================== BARÇA HEADER (FIXED NAME) ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:A50044,100:004D98&text=ROHITH%20ESHWAR&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=ROHITH%20ESHWAR&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlign=50" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2300&pause=900&color=FFFFFF&center=true&vCenter=true&width=820&lines=Backend+Engineer;Go+%7C+Django+%7C+MERN;Distributed+Systems+%26+Performance;Mes+Que+Un+Engineer" />
