@@ -1,98 +1,89 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=40&duration=1800&pause=900&color=0FFFCF&center=true&vCenter=true&width=800&lines=%3E+ROHITH+%5BSYSTEM+ONLINE%5D;%3E+INITIALIZING+SOFTWARE+ENGINEER;%3E+LOADING+BACKEND+MODULES" />
-</p>
+<!-- ===================== CYBERPUNK GLITCH TITLE ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+Full+Stack+Developer;Go+%7C+Django+%7C+MERN;Building+Fast+%26+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=42&duration=1800&pause=900&color=0FFFCF&center=true&vCenter=true&width=900&lines=%3E+ROHITH+ESH+%5BSYSTEM+BOOTING%5D;%3E+STATUS%3A+ONLINE;%3E+INITIALIZING+SOFTWARE+ENGINEER;%3E+LOADING+BACKEND+MODULES..." />
+</p>
+
+<!-- ===================== SUBTITLE ANIMATION ===================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2400&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Backend+%26+Full+Stack+Developer;Go+%7C+Django+%7C+MERN;Distributed+Systems+Enthusiast;Building+Fast+%26+Scalable+Backends" />
 </p>
 
 ---
 
 # 🧑🏼‍💻 About Me  
-I build **fast**, **reliable**, and **scalable** systems using **Go**, **Django**, and the **MERN** stack.  
-I enjoy clean architecture, high-performance APIs, and production-ready engineering with real-world impact.
+I'm a **backend-focused software engineer** who loves crafting **high-performance**, **scalable**, and **cleanly architected** systems.  
+I work across **Go**, **Django**, and **MERN**, and I obsess over backend design, reliability, and real-world performance.
 
 ---
 
-# ⚡ Tech Snapshot
+# ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Go-050505?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Django-050505?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Vue.js-050505?style=for-the-badge&logo=vuedotjs" />
+  <img src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-050505?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker" />
 </p>
 
 ---
 
-# 🔥 Featured Projects
+# 🔥 Featured Projects (Cool Cards Coming Soon)
 
 ### 📹 **PeerLink — Video Conferencing (MERN + WebRTC)**  
-Real-time video/audio streaming, chat, meeting scheduling, JWT-secured access.
+Realtime streaming, chat, JWT auth, scheduling — full Zoom-like system.
 
 ### 🤖 **AI Fitness Coach (MERN + Gemini AI + Docker)**  
-AI-generated fitness & diet plans, voice guidance, PDF export, containerized backend.
+AI-generated plans, voice coaching, PDF export, containerized backend.
 
 ### 🗂 **Event Management API (Go)**  
-Serves 100K+ monthly users —  
-✔ **4× throughput**  
-✔ **50% lower median response time**  
-✔ Modular routing + robust middleware
+Built to handle 100K+ monthly users —  
+⚡ **4× faster throughput**  
+⚡ **50% lower median latency**  
+⚡ Clean routing + tight middleware
 
 ---
 
-# 🏢 Work Experience
-
-### **Freelance Jr Software Engineer — Board Director (USA)**  
-- Built performant features using **Vue.js + Django**  
-- Reduced production issues & enhanced reliability  
-
----
-
-# 🧭 Currently Exploring
+# 🧭 Currently Upgrading My Skill Tree
 - gRPC + Go microservices  
-- Advanced auth patterns (JWT, sessions, cookies)  
-- Cloud automation & system design  
-- High-performance backend architecture  
+- Distributed backend systems  
+- Advanced authentication frameworks  
+- Cloud-native architecture & observability  
 
 ---
 
-# 📊 GitHub Stats  
+# 🛰 GitHub Control Center
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitth10e&theme=dark&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&theme=dark&hide_border=false&layout=compact" height="160" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=tokyonight&hide_border=false&show_icons=true" />
+  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=rohitth10e&theme=tokyonight&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&theme=tokyonight&layout=compact&hide_border=false" />
+</p>
+
+
+# 📡 Contact & Networks
+
+<p align="center">
+  <a href="https://github.com/rohitth10e"><img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/rohitheshwars"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:rohiteshwar.s@gmail.com"><img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
-# 🐍 Contribution Snake Animation  
-> I can generate this for you if you want — GitHub requires a workflow file.
-
----
-
-# 📫 Connect With Me  
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/rohitth10e"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/rohitheshwars"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:rohiteshwar.s@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitth10e&theme=radical&no-frame=false&no-bg=true&margin-w=6" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitth10e&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-<p align="center"><i>“Software should be simple at the surface and engineered with intention underneath.”</i></p>
+<p align="center"><i>“Engineering is the art of turning complexity into clarity.”</i></p>
