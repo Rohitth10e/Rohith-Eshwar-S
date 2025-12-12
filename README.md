@@ -1,29 +1,40 @@
+<!-- ===================== BARÇA ULTRA HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A50044,100:004D98&text=ROHITH%20ESH&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:A50044,100:004D98&text=ROHITH%20ESHWAR%S&fontColor=ffffff&fontSize=62&animation=twinkling&fontAlign=50" />
 </p>
 
-
+<!-- ===================== BARÇA CODED SUBTITLE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2300&pause=900&color=FFFFFF&center=true&vCenter=true&width=820&lines=Backend+Engineer;Go+%7C+Django+%7C+MERN+Developer;Distributed+Systems+%26+High+Performance;Blaugrana+Mindset+%E2%80%94+Mes+Que+Un+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Backend+Engineer;Distributed+Systems+%26+Scalable+Architecture;Go+%7C+Django+%7C+MERN;Precision+Engineering+%7C+Bar%C3%A7a+%E2%80%94+Mes+Que+Un+Engineer" />
 </p>
 
 ---
+
+<!-- ===================== BARÇA SECTION DIVIDER ===================== -->
+<p align="center">
+  <img src="https://imgur.com/UEs9EYO.png" width="70%" />
+</p>
 
 # 🔵 About Me  
-I’m a backend engineer with a **Barça mindset**:  
-**discipline, structure, precision, and beautiful execution.**  
+I engineer backend systems with the same mindset Barça plays football:  
+**clarity, structure, elegance, and discipline.**
 
-I architect systems that prioritise:  
-- **speed**  
-- **scalability**  
-- **clarity**  
-- **resilience under pressure**  
+I build:  
+- scalable, high-performance APIs  
+- clean architectures  
+- predictable distributed systems  
+- real-world, production-grade solutions  
 
-Just like a well-built midfield, everything flows cleanly.
+My strengths: **backend design, microservices, system reliability, and high-performance engineering.**
 
 ---
 
-# 🔴 Tech Stack — Blaugrana Edition
+<!-- ===================== BARÇA STRIPES DIVIDER ===================== -->
+<p align="center">
+  <img src="https://imgur.com/zf0G6iW.png" width="60%" />
+</p>
+
+# 🔴 Tech Arsenal — Blaugrana Edition
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-A50044?style=for-the-badge&logo=go&logoColor=00ADD8" />
@@ -40,46 +51,67 @@ Just like a well-built midfield, everything flows cleanly.
 
 ---
 
+<!-- ===================== CAMP NOU SKYLINE ===================== -->
+<p align="center">
+  <img src="https://imgur.com/bUu0m6B.png" width="80%" />
+</p>
+
 # 🔵 Featured Projects — Tiki-Taka Engineering
 
 ### **PeerLink — Real-time Video Conferencing (MERN + WebRTC)**  
-Fast ball movement. Zero latency. Efficient collaboration.  
-Crafted like a Barça build-up phase.
+⚡ Low-latency audio/video  
+⚡ Distributed meeting lifecycle logic  
+⚡ JWT-secured access  
+A system built like Barça's midfield: fast, fluid, reliable.
+
+---
 
 ### **AI Fitness Coach (MERN + Gemini AI + Docker)**  
-Intelligent planning, clean UI transitions, and modular backend —  
-precision engineering meets creativity.
+⚡ LLM-powered plan generation  
+⚡ PDF export + voice instructions  
+⚡ Modern animated UI  
+Creativity + precision.
+
+---
 
 ### **Event Management API (Go)**  
-High-traffic optimised backend:  
-- **4× throughput improvement**  
-- **50% lower median response time**  
-- **Pure modular, disciplined routing**  
-Like a well-drilled defensive block.
+⚡ 4× throughput increase  
+⚡ 50% median latency reduction  
+⚡ Modular routing + strict middleware  
+A defensive masterclass in backend form.
 
 ---
 
-# 🔴 Currently Training (Like La Masia)
+<!-- ===================== BARÇA MIDFIELD DIVIDER ===================== -->
+<p align="center">
+  <img src="https://imgur.com/YXM0j5O.png" width="60%" />
+</p>
 
-- Go microservices & gRPC  
-- Distributed systems  
-- Advanced authentication flows  
-- Observability & cloud-native design  
+# 🔴 Currently Training (La Masia Standards)
+- Go microservices  
+- gRPC + distributed systems  
+- Auth systems at scale  
+- Observability & cloud-native platforms  
+- High-performance system design  
 
 ---
 
-# 🔵 Barça-Themed GitHub Stats  
+# 🔵 GitHub Control Center — Blaugrana Mode
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=midnight-purple&hide_border=true&show_icons=true" />
-  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=rohitth10e&theme=blueberry&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&theme=midnight-purple&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=midnight-purple&hide_border=true&show_icons=true" />
+  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=rohitth10e&theme=blueberry&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&theme=midnight-purple&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-# 🔴 Connect With Me — Blaugrana Network
+<!-- ===================== BARÇA SCARF DIVIDER ===================== -->
+<p align="center">
+  <img src="https://imgur.com/mgw8n1C.png" width="70%" />
+</p>
 
+# 🔴 Connect With Me  
 <p align="center">
   <a href="https://github.com/rohitth10e"><img src="https://img.shields.io/badge/GitHub-A50044?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/rohitheshwars"><img src="https://img.shields.io/badge/LinkedIn-004D98?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -88,6 +120,7 @@ Like a well-drilled defensive block.
 
 ---
 
+<!-- ===================== BARÇA MOTTO ===================== -->
 <p align="center">
-  <i>"Play beautifully. Build beautifully. Engineer with purpose."</i>
+  <i>"Play beautifully. Build beautifully. Mes que un Engineer."</i>
 </p>
