@@ -1,23 +1,18 @@
-<!-- ===================== BARÇA ULTRA HEADER ===================== -->
+<!-- ===================== BARÇA HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A50044,100:004D98&text=ROHITH%20ESH&fontColor=ffffff&fontSize=62&animation=twinkling&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:A50044,100:004D98&text=ROHITH%20ESH&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2300&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Backend+Engineer;Distributed+Systems+%7C+High+Performance;Go+%7C+Django+%7C+MERN;Mes+Que+Un+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2300&pause=900&color=FFFFFF&center=true&vCenter=true&width=820&lines=Backend+Engineer;Go+%7C+Django+%7C+MERN;Distributed+Systems+%26+Performance;Mes+Que+Un+Engineer" />
 </p>
 
 ---
 
-<!-- ===================== BARÇA DIVIDER (NO BROKEN IMAGES) ===================== -->
-### <div align="center" style="font-size:28px; font-weight:600; color:#A50044;">━━━━━━━━━━━━━━━━━━━━━━━</div>
-
 # 🔵 About Me  
 
-I engineer backend systems with a **Barça philosophy** —  
-clarity, structure, elegance, and discipline.
-
+I engineer backend systems with a **Barça philosophy** — clarity, structure, and discipline.  
 I focus on:
 
 - high-performance backend architecture  
@@ -26,8 +21,6 @@ I focus on:
 - clean modular design  
 
 ---
-
-### <div align="center" style="font-size:28px; font-weight:600; color:#004D98;">━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 # 🔴 Tech Arsenal — Blaugrana Edition  
 
@@ -46,44 +39,41 @@ I focus on:
 
 ---
 
-### <div align="center" style="font-size:28px; font-weight:600; color:#A50044;">━━━━━━━━━━━━━━━━━━━━━━━</div>
-
 # 🔵 Featured Projects  
 
 ### **PeerLink — Real-time Video Conferencing (MERN + WebRTC)**  
-Low-latency RTC pipeline with JWT security.
+Low-latency RTC, distributed meeting logic, JWT-secured access.
 
 ### **AI Fitness Coach (MERN + Gemini AI + Docker)**  
-LLM-driven personalized plans + animated UI.
+Personalized AI plans with clean UI, PDF export, and modular backend.
 
 ### **Event Management API (Go)**  
 - 4× throughput  
-- 50% lower latency  
-- Modular, high-performance routing  
+- 50% lower median latency  
+- Efficient routing & middleware  
 
 ---
 
-### <div align="center" style="font-size:28px; font-weight:600; color:#004D98;">━━━━━━━━━━━━━━━━━━━━━━━</div>
-
-# 🔴 Currently Training  
-- Go microservices & gRPC  
-- Distributed systems  
-- High-scale authentication systems  
-- Observability & cloud-native tooling  
+# 🔴 Currently Exploring  
+- Go microservices  
+- gRPC + distributed systems  
+- Scalable authentication  
+- Observability & cloud-native design  
 
 ---
 
-# 🔵 GitHub Control Center  
+# 🔵 GitHub Stats (Fixed & Working)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=midnight-purple&hide_border=true&show_icons=true" />
-  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=rohitth10e&theme=blueberry&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&theme=midnight-purple&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=rohitth10e&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-### <div align="center" style="font-size:28px; font-weight:600; color:#A50044;">━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 # 🔴 Connect With Me  
 
@@ -92,8 +82,6 @@ LLM-driven personalized plans + animated UI.
   <a href="https://linkedin.com/in/rohitheshwars"><img src="https://img.shields.io/badge/LinkedIn-004D98?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rohiteshwar.s@gmail.com"><img src="https://img.shields.io/badge/Email-A50044?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center">
   <i>"Play beautifully. Build beautifully. Mes que un Engineer."</i>
